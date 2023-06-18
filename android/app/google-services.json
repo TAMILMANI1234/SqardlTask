@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899822909539",
+    "project_id": "indianuniversity-6ba59",
+    "storage_bucket": "indianuniversity-6ba59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899822909539:android:a89b2517bf1dab199f2056",
+        "android_client_info": {
+          "package_name": "com.example.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899822909539-qeg8mok3skib1q717uv2ogke9rdei6q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5AjkXXFxz0UACm36eySsH9W2Lm9D__I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899822909539-qeg8mok3skib1q717uv2ogke9rdei6q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
