@@ -1,16 +1,9 @@
-# college
+#  Technical Assessment
+# Problem Statement III: Mobile Application
 
-A new Flutter project.
+Develop a Mobile Application using Flutter or Any Mobile App development framework. The
+application should have Login page, after successful login navigate to Home Page. Display the list of
+universities in list view with search feature. On clicking a list item - Show the respective Item details
+in a new page i.e., University Details Page.
+URL:http://universities.hipolabs.com/search?country=India
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
