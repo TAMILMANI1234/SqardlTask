@@ -7,3 +7,5 @@ universities in list view with search feature. On clicking a list item - Show th
 in a new page i.e., University Details Page.
 URL:http://universities.hipolabs.com/search?country=India
 
+clone project using : git clone https://github.com/TAMILMANI1234/SqardlTask.git
+
