@@ -12,7 +12,7 @@ How to Install and Run the Project:
  1. clone project using : git clone https://github.com/TAMILMANI1234/SqardlTask.git
  2. Open the project in Android studio .
  3. open terminal and type "pup get" to install dependencies
- 4. Finally run the project on emulator or connected device
+ 4. Finally run the project by using emulator or connected device
 
 
 
