@@ -14,6 +14,6 @@ How to Install and Run the Project:
  3. open terminal and type "pup get" to install dependencies
  4. Finally run the project by using emulator or connected device
 
-
-
-
+Login Credentials:
+username: k.tamilmani1234@gmail.com
+password:123456789
